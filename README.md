@@ -1,33 +1,19 @@
-# PizzaRio 🍕  
+# 🍕 PizzaRio
 
-Site responsivo de pizzaria desenvolvido com **Next.js, React, TypeScript e Tailwind CSS**.  
-Apresenta os principais sabores, sistema de login/cadastro funcional e acesso ao cardápio completo.  
+Bem-vindo ao PizzaRio! Este é um projeto desenvolvido para simular o processo de pedidos em uma pizzaria, utilizando tecnologias modernas como React, TypeScript e Tailwind CSS.
 
----
+## 🚀 Tecnologias Utilizadas
 
-## 🛠 Tecnologias utilizadas
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
+- **Tailwind CSS**: Framework CSS utilitário para estilização rápida e responsiva.
+- **Next.js**: Framework React para renderização do lado do servidor e geração de sites estáticos.
+- **pnpm**: Gerenciador de pacotes rápido e eficiente.
 
-- [Next.js](https://nextjs.org/)  
-- [React](https://reactjs.org/)  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- Componentes personalizados (`Card`, `Button`, `Input`)  
-- Deploy recomendado: [Vercel](https://vercel.com/)  
+## 📦 Como Rodar o Projeto Localmente
 
----
+1. Clone o repositório:
 
-## 💻 Funcionalidades
-
-- Exibição de pizzas em destaque com imagem, descrição e tradução em italiano  
-- Sistema de **login e cadastro** funcional  
-- Botão para acessar o **cardápio completo** via link  
-- Layout responsivo, compatível com desktop e mobile  
-- Componentes reutilizáveis para facilitar manutenção  
-
----
-
-## 🚀 Como rodar o projeto localmente
-
-1. Clone o repositório:  
-```bash
-git clone https://github.com/Ibrag4/PizzaRio.git
+   ```bash
+   git clone https://github.com/Ibrag4/PizzaRio.git
+   cd PizzaRio
